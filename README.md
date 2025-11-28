@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on **DE Project**
 
-- 📫 How to reach me **abdelmoughit.elouaad-etu@etu.univh2c.ma
-**
+- 📫 How to reach me **abdelmoughit.elouaad-etu@etu.univh2c.ma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
