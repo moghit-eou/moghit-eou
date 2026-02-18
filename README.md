@@ -2,8 +2,9 @@
 <h3 align="center">Working Across Data & Software Frontiers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moghit-eou&label=Profile%20views&color=0e75b6&style=flat" alt="moghit-eou" /> </p>
-- 🔭 I’m currently working on **DE Project**
 
+
+- Backend enthusiast building scalable systems with Go.
 - 📫 How to reach me **abdelmoughit.elouaad-etu@etu.univh2c.ma**
 
 <h3 align="left">Connect with me:</h3>
