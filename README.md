@@ -17,7 +17,7 @@
 <p align="left">
   <!-- Languages -->
   <a href="https://www.gnu.org/software/go/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="70" height="70"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
