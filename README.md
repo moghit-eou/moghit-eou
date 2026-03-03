@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moghit-eou&label=Profile%20views&color=0e75b6&style=flat" alt="moghit-eou" /> </p>
 
 
-- Backend enthusiast building scalable systems with Go.
+- Backend enthusiast exploring scalable systems with Go.
 - 📫 How to reach me **abdelmoughit.elouaad-etu@etu.univh2c.ma**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
+  <a href="https://www.gnu.org/software/go/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="bash" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
