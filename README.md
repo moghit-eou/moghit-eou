@@ -5,6 +5,7 @@
 
 
 - Backend enthusiast exploring scalable systems with Go.
+- I do competitive programming using C++.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
